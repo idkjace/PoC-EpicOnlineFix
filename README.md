@@ -2,7 +2,7 @@
 Online Fix for Epic Games Launcher, currently i only tested on Hot Wheels Unleashed 2: Turbocharged
 All the flow and how it works its exactly same just like Online-Fix.me
 
-Features:
+# Features:
 - DLC Catalog — `UnlockAllDLC`, explicit `OwnedItems` / `Entitlements` lists, optional per-game `manifests/<App>/ecom.toml` overlay
 - Patch EOS SDK on disk
 - **EOS hooks**
@@ -14,10 +14,10 @@ Features:
 - Configuration generation for each game
 - Many more
 
-- Future:
+# Future:
 - Working Achievements
 
-- Preview
+# Preview:
 Launcher & In Game:
 <img width="1223" height="639" alt="image" src="https://github.com/user-attachments/assets/673827bd-c8b0-400b-bca0-eb1f349e45b6" />
 <img width="2560" height="1384" alt="FxMItRl6of" src="https://github.com/user-attachments/assets/d37d735e-77cc-4ac1-bf1a-b4f35465f01a" />
